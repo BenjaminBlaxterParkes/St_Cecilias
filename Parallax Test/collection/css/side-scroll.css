@@ -1,0 +1,12 @@
+tr {
+    vertical-align: top;
+}
+.image-link-container {
+    width: 100%;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    /*white-space: nowrap;*/
+}
+/*.container .content {
+    width: 75%;
+}*/

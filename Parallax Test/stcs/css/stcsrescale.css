@@ -1,0 +1,325 @@
+/* Super fucking ugly but only way to keep hover animations working :'( */
+@media screen and (max-width: 2500px)
+{
+    .overlay-container {
+        height: 420px;
+    }
+}
+@media screen and (max-width: 2450px)
+{
+    .overlay-container {
+        height: 410px;
+    }
+}
+@media screen and (max-width: 2400px)
+{
+    .overlay-container {
+        height: 400px;
+    }
+}
+@media screen and (max-width: 2350px)
+{
+    .overlay-container {
+        height: 390px;
+    }
+}
+@media screen and (max-width: 2300px)
+{
+    .overlay-container {
+        height: 380px;
+    }
+}
+@media screen and (max-width: 2250px)
+{
+    .overlay-container {
+        height: 370px;
+    }
+}
+@media screen and (max-width: 2200px)
+{
+    .overlay-container {
+        height: 360px;
+    }
+}
+@media screen and (max-width: 2150px)
+{
+    .overlay-container {
+        height: 350px;
+    }
+}
+@media screen and (max-width: 2100px)
+{
+    .overlay-container {
+        height: 340px;
+    }
+}
+@media screen and (max-width: 2050px)
+{
+    .overlay-container {
+        height: 330px;
+    }
+}
+@media screen and (max-width: 2000px)
+{
+    .overlay-container {
+        height: 320px;
+    }
+}
+@media screen and (max-width: 1950px)
+{
+    .overlay-container {
+        height: 310px;
+    }
+}
+@media screen and (max-width: 1900px)
+{
+    .overlay-container {
+        height: 300x;
+    }
+}
+@media screen and (max-width: 1850px)
+{
+    .overlay-container {
+        height: 290px;
+    }
+}
+@media screen and (max-width: 1800px)
+{
+    .overlay-container {
+        height: 280px;
+    }
+}
+@media screen and (max-width: 1750px)
+{
+    .overlay-container {
+        height: 270px;
+    }
+}
+@media screen and (max-width: 1700px)
+{
+    .overlay-container {
+        height: 260px;
+    }
+}
+@media screen and (max-width: 1650px)
+{
+    .overlay-container {
+        height: 250px;
+    }
+}
+@media screen and (max-width: 1600px)
+{
+    .overlay-container {
+        height: 240px;
+    }
+}
+@media screen and (max-width: 1550px)
+{
+    .overlay-container {
+        height: 230px;
+    }
+}
+@media screen and (max-width: 1500px)
+{
+    .overlay-container {
+        height: 220px;
+    }
+}
+@media screen and (max-width: 1450px)
+{
+    .overlay-container {
+        height: 210px;
+    }
+}
+@media screen and (max-width: 1400px)
+{
+    .overlay-container {
+        height: 200px;
+    }
+}
+@media screen and (max-width: 1350px)
+{
+    .overlay-container {
+        height: 190px;
+    }
+}
+@media screen and (max-width: 1300px)
+{
+    .overlay-container {
+        height: 180px;
+    }
+}
+@media screen and (max-width: 1250px)
+{
+    .overlay-container {
+        height: 170px;
+    }
+}
+@media screen and (max-width: 1200px)
+{
+    .overlay-container {
+        height: 160px;
+    }
+}
+@media screen and (max-width: 1150px)
+{
+    .overlay-container {
+        height: 150px;
+    }
+}
+@media screen and (max-width: 1100px)
+{
+    .overlay-container {
+        height: 150px;
+    }
+}
+@media screen and (max-width: 1050px)
+{
+    .overlay-container {
+        height: 150px;
+    }
+}
+@media screen and (max-width: 1000px)
+{
+    .overlay-container {
+        height: 130px;
+    }
+}
+@media screen and (max-width: 950px)
+{
+    .overlay-container {
+        height: 130px;
+    }
+}
+@media screen and (max-width: 900px)
+{
+    .overlay-container {
+        height: 120px;
+    }
+}
+@media screen and (max-width: 850px)
+{
+    .overlay-container {
+        height: 110px;
+    }
+}
+@media screen and (max-width: 800px)
+{
+    .overlay-container {
+        height: 100px;
+    }
+}
+@media screen and (max-width: 750px)
+{
+    .overlay-container {
+        height: 95px;
+    }
+}
+@media screen and (max-width: 725px)
+{
+    .overlay-container {
+        height: 90px;
+    }
+}
+@media screen and (max-width: 700px)
+{
+    .overlay-container {
+        height: 85px;
+    }
+}
+@media screen and (max-width: 675px)
+{
+    .overlay-container {
+        height: 80px;
+    }
+}
+@media screen and (max-width: 650px)
+{
+    .overlay-container {
+        height: 75px;
+    }
+}
+@media screen and (max-width: 625px)
+{
+    .overlay-container {
+        height: 70px;
+    }
+}
+@media screen and (max-width: 600px)
+{
+    .overlay-container {
+        height: 65px;
+    }
+}
+@media screen and (max-width: 575px)
+{
+    .overlay-container {
+        height: 60px;
+    }
+}
+@media screen and (max-width: 550px)
+{
+    .overlay-container {
+        height: 55px;
+    }
+}
+@media screen and (max-width: 525px)
+{
+    .overlay-container {
+        height: 70px;
+    }
+}
+@media screen and (max-width: 400px)
+{
+    .overlay-container {
+        height: 70px;
+    }
+}
+@media screen and (max-width: 475px)
+{
+    .overlay-container {
+        height: 70px;
+    }
+}
+@media screen and (max-width: 450px)
+{
+    .overlay-container {
+        height: 65px;
+    }
+}
+@media screen and (max-width: 425px)
+{
+    .overlay-container {
+        height: 60px;
+    }
+}
+@media screen and (max-width: 400px)
+{
+    .overlay-container {
+        height: 55px;
+    }
+}
+@media screen and (max-width: 375px)
+{
+    .overlay-container {
+        height: 50px;
+    }
+}
+@media screen and (max-width: 350px)
+{
+    .overlay-container {
+        height: 45px;
+    }
+}
+@media screen and (max-width: 325px)
+{
+    .overlay-container {
+        height: 40px;
+    }
+}
+@media screen and (max-width: 300px)
+{
+    .overlay-container {
+        height: 35px;
+    }
+}
