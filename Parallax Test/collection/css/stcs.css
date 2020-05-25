@@ -115,9 +115,6 @@ h2{
 }
 .stc-text p {
     font-size: 24px;
-    /* background: rgb(101,1,0);
-    padding: 10px;
-    border-radius: 10px;*/
 }
 
 /* Link box styles */
@@ -174,6 +171,57 @@ h2{
 }
 .overlay-container:hover .overlay {
     height: 100%;
+}
+
+/* Clickable Link Styles */
+.list-click-container {
+    overflow:hidden;    
+    width: 80%;
+    height: 500px; 
+    margin-top: -15%;
+    margin-left: 10.2%;
+}
+.list-body{
+    display: inline-flex;
+    background:grey;
+    min-width:1400px;
+    min-height:1400px;
+}
+.list-item{
+    background:green;
+    width: 1742.5px;
+    height: 490px;
+    margin: 5px;
+    float:left;
+    position:relative;
+}
+#arrowR {
+background:yellow;
+    width: 100px;
+    height: 490px;
+    float: right;
+    cursor: pointer;
+}
+#arrowL{
+background:yellow;
+    width: 100px;
+    height: 490px;
+    float: left;
+    cursor: pointer;
+}
+#arrowL i, #arrowR i {
+    margin-top: 205px;
+    width: 50px;
+    height: 50px;
+    border: 48px solid transparent;
+    border-top: 48px solid;
+    border-right: 48px solid;
+}
+#iconL {
+    margin-left: 35px;
+}
+#iconR  {
+    margin-left: -25px;
 }
 
 /* Footer */
